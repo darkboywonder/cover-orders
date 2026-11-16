@@ -1,0 +1,380 @@
+{
+  "id": 5810001001001,
+  "admin_graphql_api_id": "gid://shopify/Order/5810001001001",
+  "app_id": 580111,
+  "browser_ip": "203.0.113.24",
+  "buyer_accepts_marketing": false,
+  "cancel_reason": "customer",
+  "cancelled_at": "2026-10-02T09:00:00-04:00",
+  "cart_token": null,
+  "checkout_id": null,
+  "checkout_token": null,
+  "client_details": null,
+  "closed_at": null,
+  "confirmation_number": "K1001XQ",
+  "confirmed": true,
+  "contact_email": "jordan.rivera@example.com",
+  "created_at": "2026-10-01T14:05:11-04:00",
+  "currency": "USD",
+  "current_subtotal_price": "34.95",
+  "current_subtotal_price_set": {
+    "shop_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    }
+  },
+  "current_total_discounts": "0.00",
+  "current_total_discounts_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    }
+  },
+  "current_total_price": "34.95",
+  "current_total_price_set": {
+    "shop_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    }
+  },
+  "current_total_tax": "0.00",
+  "current_total_tax_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    }
+  },
+  "customer_locale": "en",
+  "discount_codes": [],
+  "email": "jordan.rivera@example.com",
+  "estimated_taxes": false,
+  "financial_status": "voided",
+  "fulfillment_status": null,
+  "landing_site": null,
+  "location_id": null,
+  "name": "#1001",
+  "note": null,
+  "note_attributes": [],
+  "number": 1,
+  "order_number": 1001,
+  "order_status_url": "https://demo-store.myshopify.com/orders/5810001001001/authenticate",
+  "payment_gateway_names": [
+    "shopify_payments"
+  ],
+  "phone": null,
+  "po_number": null,
+  "presentment_currency": "USD",
+  "processed_at": "2026-10-01T14:05:11-04:00",
+  "reference": null,
+  "referring_site": null,
+  "source_identifier": null,
+  "source_name": "web",
+  "source_url": null,
+  "subtotal_price": "34.95",
+  "subtotal_price_set": {
+    "shop_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    }
+  },
+  "tags": "",
+  "tax_exempt": false,
+  "tax_lines": [],
+  "taxes_included": false,
+  "test": false,
+  "token": "tok5810001001001",
+  "total_discounts": "0.00",
+  "total_discounts_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    }
+  },
+  "total_line_items_price": "34.95",
+  "total_line_items_price_set": {
+    "shop_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    }
+  },
+  "total_outstanding": "0.00",
+  "total_price": "34.95",
+  "total_price_set": {
+    "shop_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "34.95",
+      "currency_code": "USD"
+    }
+  },
+  "total_shipping_price_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    }
+  },
+  "total_tax": "0.00",
+  "total_tax_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "USD"
+    }
+  },
+  "total_tip_received": "0.00",
+  "total_weight": 907,
+  "updated_at": "2026-10-02T09:00:02-04:00",
+  "user_id": null,
+  "billing_address": {
+    "first_name": "Jordan",
+    "address1": "120 Market Street",
+    "phone": "555-555-0142",
+    "city": "Columbus",
+    "zip": "43215",
+    "province": "Ohio",
+    "country": "United States",
+    "last_name": "Rivera",
+    "address2": "Apt 4",
+    "company": null,
+    "latitude": null,
+    "longitude": null,
+    "name": "Jordan Rivera",
+    "country_code": "US",
+    "province_code": "OH"
+  },
+  "customer": {
+    "id": 7301234567890,
+    "email": "jordan.rivera@example.com",
+    "created_at": "2025-03-02T09:12:44-05:00",
+    "updated_at": "2026-10-01T14:05:12-04:00",
+    "first_name": "Jordan",
+    "last_name": "Rivera",
+    "state": "enabled",
+    "note": null,
+    "verified_email": true,
+    "multipass_identifier": null,
+    "tax_exempt": false,
+    "phone": null,
+    "currency": "USD",
+    "tax_exemptions": [],
+    "admin_graphql_api_id": "gid://shopify/Customer/7301234567890",
+    "default_address": {
+      "id": 9012345678901,
+      "customer_id": 7301234567890,
+      "first_name": "Jordan",
+      "last_name": "Rivera",
+      "company": null,
+      "address1": "120 Market Street",
+      "address2": "Apt 4",
+      "city": "Columbus",
+      "province": "Ohio",
+      "country": "United States",
+      "zip": "43215",
+      "phone": "555-555-0142",
+      "name": "Jordan Rivera",
+      "province_code": "OH",
+      "country_code": "US",
+      "country_name": "United States",
+      "default": true
+    }
+  },
+  "discount_applications": [],
+  "fulfillments": [],
+  "line_items": [
+    {
+      "id": 13900001,
+      "admin_graphql_api_id": "gid://shopify/LineItem/13900001",
+      "attributed_staffs": [],
+      "current_quantity": 1,
+      "fulfillable_quantity": 1,
+      "fulfillment_service": "manual",
+      "fulfillment_status": null,
+      "gift_card": false,
+      "grams": 907,
+      "name": "House Blend Coffee 2lb",
+      "price": "32.00",
+      "price_set": {
+        "shop_money": {
+          "amount": "32.00",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "32.00",
+          "currency_code": "USD"
+        }
+      },
+      "product_exists": true,
+      "product_id": 8123450001,
+      "properties": [],
+      "quantity": 1,
+      "requires_shipping": true,
+      "sales_line_item_group_id": null,
+      "selling_plan_id": 69120001,
+      "sku": "COFFEE-HB-2LB",
+      "taxable": true,
+      "title": "House Blend Coffee 2lb",
+      "total_discount": "0.00",
+      "total_discount_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        }
+      },
+      "variant_id": 44123450001,
+      "variant_inventory_management": "shopify",
+      "variant_title": null,
+      "vendor": "Demo Roasters",
+      "tax_lines": [],
+      "duties": [],
+      "discount_allocations": []
+    },
+    {
+      "id": 13900002,
+      "admin_graphql_api_id": "gid://shopify/LineItem/13900002",
+      "attributed_staffs": [],
+      "current_quantity": 1,
+      "fulfillable_quantity": 1,
+      "fulfillment_service": "manual",
+      "fulfillment_status": null,
+      "gift_card": false,
+      "grams": 0,
+      "name": "ShipInsure Shipping Protection",
+      "price": "2.95",
+      "price_set": {
+        "shop_money": {
+          "amount": "2.95",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "2.95",
+          "currency_code": "USD"
+        }
+      },
+      "product_exists": true,
+      "product_id": 8123459999,
+      "properties": [],
+      "quantity": 1,
+      "requires_shipping": false,
+      "sales_line_item_group_id": null,
+      "selling_plan_id": null,
+      "sku": "SHIPINSURE-PROTECTION",
+      "taxable": true,
+      "title": "ShipInsure Shipping Protection",
+      "total_discount": "0.00",
+      "total_discount_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        }
+      },
+      "variant_id": 44123459999,
+      "variant_inventory_management": "shopify",
+      "variant_title": null,
+      "vendor": "ShipInsure",
+      "tax_lines": [],
+      "duties": [],
+      "discount_allocations": []
+    }
+  ],
+  "payment_terms": null,
+  "refunds": [],
+  "returns": [],
+  "shipping_address": {
+    "first_name": "Jordan",
+    "address1": "120 Market Street",
+    "phone": "555-555-0142",
+    "city": "Columbus",
+    "zip": "43215",
+    "province": "Ohio",
+    "country": "United States",
+    "last_name": "Rivera",
+    "address2": "Apt 4",
+    "company": null,
+    "latitude": null,
+    "longitude": null,
+    "name": "Jordan Rivera",
+    "country_code": "US",
+    "province_code": "OH"
+  },
+  "shipping_lines": [
+    {
+      "id": 1002,
+      "carrier_identifier": null,
+      "code": "Standard",
+      "discounted_price": "0.00",
+      "discounted_price_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        }
+      },
+      "is_removed": false,
+      "phone": null,
+      "price": "0.00",
+      "price_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "USD"
+        }
+      },
+      "requested_fulfillment_service_id": null,
+      "source": "shopify",
+      "title": "Standard",
+      "tax_lines": [],
+      "discount_allocations": []
+    }
+  ]
+}

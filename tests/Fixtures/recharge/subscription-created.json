@@ -1,0 +1,42 @@
+{
+  "subscription": {
+    "id": 398712345,
+    "address_id": 187654321,
+    "customer_id": 154329876,
+    "analytics_data": {
+      "utm_params": []
+    },
+    "cancellation_reason": null,
+    "cancellation_reason_comments": null,
+    "cancelled_at": null,
+    "charge_interval_frequency": 1,
+    "created_at": "2026-10-01T18:05:19+00:00",
+    "expire_after_specific_number_of_charges": null,
+    "external_product_id": {
+      "ecommerce": "8123450001"
+    },
+    "external_variant_id": {
+      "ecommerce": "44123450001"
+    },
+    "has_queued_charges": true,
+    "is_prepaid": false,
+    "is_skippable": true,
+    "is_swappable": false,
+    "max_retries_reached": false,
+    "next_charge_scheduled_at": "2026-12-01",
+    "order_day_of_month": null,
+    "order_day_of_week": null,
+    "order_interval_frequency": 1,
+    "order_interval_unit": "month",
+    "presentment_currency": "USD",
+    "price": "32.00",
+    "product_title": "House Blend Coffee 2lb",
+    "properties": [],
+    "quantity": 1,
+    "sku": "COFFEE-HB-2LB",
+    "sku_override": false,
+    "status": "active",
+    "updated_at": "2026-10-01T18:05:20+00:00",
+    "variant_title": ""
+  }
+}
